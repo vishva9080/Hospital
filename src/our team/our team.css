@@ -1,0 +1,259 @@
+.ourteam-top {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.ourteam-bottom {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.ourteam-top1 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+}
+.ourteam-top1:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    
+}
+.ourteam-top1:hover img{
+    opacity: 1;
+    
+}
+
+.ourteam-top2 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+
+}
+.ourteam-top2:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.ourteam-top2:hover img{
+    opacity: 1;
+    
+}
+
+.ourteam-top3 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+}
+.ourteam-top3:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.ourteam-top3:hover img{
+    opacity: 1;
+   
+}
+.ourteam-bottom1 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+}
+.ourteam-bottom1:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.ourteam-bottom1:hover img{
+    opacity: 1;
+   
+}
+.ourteam-bottom2 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+}
+.ourteam-bottom2:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.ourteam-bottom2:hover img{
+    opacity: 1;
+    
+}
+.ourteam-bottom3 {
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    height: 440px;
+    width: 350px;
+    border-radius: 25px;
+    transition: all 0.2s ease-in;
+}
+.ourteam-bottom3:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+}
+.ourteam-bottom3:hover img{
+    opacity: 1;
+    
+}
+.ourteam-main h1 {
+    color: #f17732 !important;
+    font-weight: 700 !important;
+    font-size: 35px;
+    margin-left: 570px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.member1 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    mask-image: url(./images/download\ \(2\).png);
+    mask-repeat: no-repeat;
+    margin-top: 80px;
+    margin-left: 83px;
+    position: relative;
+}
+
+.before-png {
+    position: absolute;
+    left: 120px;
+    top: 1395px;
+    opacity: 0.5;
+}
+
+.after-png {
+    position: absolute;
+    left: 80px;
+    top: 1370px;
+    opacity: 0.5;
+}
+
+.before2-png {
+    position: absolute;
+    left: 570px;
+    top: 1395px;
+    opacity: 0.5;
+}
+
+.after2-png {
+    position: absolute;
+    left: 530px;
+    top: 1370px;
+    opacity: 0.5;
+}
+
+.before3-png {
+    position: absolute;
+    left: 1015px;
+    top: 1395px;
+    opacity: 0.5;
+}
+
+.after3-png {
+    position: absolute;
+    left: 975px;
+    top: 1370px;
+    opacity: 0.5;
+}
+
+.before4-png {
+    position: absolute;
+    left: 120px;
+    top: 1855px;
+    opacity: 0.5;
+}
+
+.after4-png {
+    position: absolute;
+    left: 80px;
+    top: 1830px;
+    opacity: 0.5;
+}
+
+.before5-png {
+    position: absolute;
+    left: 570px;
+    top: 1855px;
+    opacity: 0.5;
+}
+
+.after5-png {
+    position: absolute;
+    left: 530px;
+    top: 1830px;
+    opacity: 0.5;
+}
+
+.before6-png {
+    position: absolute;
+    left: 1015px;
+    top: 1855px;
+    opacity: 0.5;
+}
+
+.after6-png {
+    position: absolute;
+    left: 975px;
+    top: 1830px;
+    opacity: 0.5;
+}
+
+.doctorname{
+color: rgb(12, 12, 136);
+font-weight: 700 !important;
+font-size: 25px;
+margin-left: 55px;
+margin-top: 30px;
+font-family: 'Montserrat', sans-serif;
+}
+.drpro{
+    color: #f17732;
+    font-weight: 700 !important;
+    font-size: 20px;
+    margin-left: 130px;
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+.doctorname2{
+    color: rgb(12, 12, 136);
+    font-weight: 700 !important;
+    font-size: 25px;
+    margin-left: 75px;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    }
+    .drpro2{
+        color: #f17732;
+        font-weight: 700 !important;
+        font-size: 20px;
+        margin-left: 110px;
+        
+        font-family: 'Montserrat', sans-serif;
+    }
+    .doctorname3{
+        color: rgb(12, 12, 136);
+        font-weight: 700 !important;
+        font-size: 25px;
+        margin-left: 55px;
+        margin-top: 30px;
+        font-family: 'Montserrat', sans-serif;
+        }
+        .drpro3{
+            color: #f17732;
+            font-weight: 700 !important;
+            font-size: 20px;
+            margin-left: 120px;
+            
+            font-family: 'Montserrat', sans-serif;
+        }

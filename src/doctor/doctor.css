@@ -1,0 +1,118 @@
+.doctor-main-bg{
+    display: grid;
+    place-items: CENTER;
+    margin-top: 20px;
+}
+.doctor-main{
+    width: 1000px;
+    height: 515px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    display: flex;
+}
+.doctor-main-bg H1{
+   padding: 10px;
+    color: rgb(60, 60, 173);
+}
+.dr-left{
+    padding: 30px;
+    padding-top: 50px; 
+    padding-left: 70px;
+}
+.dr-inputs{
+    width: 400px;
+   margin-top: 10px !important;
+
+}
+.dr-right{
+    padding: 30px;
+    padding-top: 40px; 
+}
+.dr-right-p{
+    color: rgb(60, 60, 173);
+    font-size: 25px;
+}
+.next-p{
+    color: rgb(60, 60, 173);
+    margin-top: 5px;
+}
+.medical-check{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.dr-inputs-checkup{
+    width: 150px !important;
+    padding: 10px !important;
+}
+.Medcine-dropdown{
+width: 400px;
+}
+.dr-table{
+    width: 400px;
+padding: 10px;
+margin-top: 20px;
+border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.number-dr{
+padding: 5px;
+border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.tablet-dr{
+    padding: 5px;
+    width: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.bf-dr{
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.an-dr{
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.ni8-dr{
+    padding: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.dr-checkbox td{
+    border: 1px solid rgba(0, 0, 0, 0.205);
+    padding-left: 7px;
+}
+.dr-checkbox td{
+   text-align: center;
+}
+.visit-date{
+    width: 400px;
+    margin-top: -10px !important;
+}
+.dr-test{
+    color: rgb(60, 60, 173);
+    margin-top: 5px;
+}
+.check-main{
+    display: flex;
+    margin-top: -12px;
+}
+.test-box-1{
+    display: flex;
+   justify-content: space-evenly;
+}
+.BMI{
+    width: 100px;
+    height: 60px !important;
+    margin-top: -10px !important;
+    padding-left: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.205);
+}
+.test-btn-1{
+width: 100px;
+height: 40px;
+}
+.dr-inputs-form{
+height: 60px;
+width: 400px;
+margin-top: 10px;
+border: 1px solid rgba(0, 0, 0, 0.205);
+padding-left: 10px;
+}

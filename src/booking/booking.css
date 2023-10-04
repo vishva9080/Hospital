@@ -1,0 +1,176 @@
+.main-booking{
+    background-color: rgba(165, 165, 209, 0.178);
+    width: 1300px;
+    height: 800px;
+    border-radius: 25px;
+    margin-top: 50px;
+    margin-left: 22px;
+    display: flex;
+}
+.booking-left{
+    width: 450px;
+    height: 600px;
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.book-appoint{
+    color: rgb(12, 12, 136);
+    font-weight: 700 !important;
+    font-size: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.booking-left form{
+    display: grid;
+    position: relative;
+}
+.booking-left form::before{
+    border: 2px solid #565acf;
+    background-color: white;
+    border-radius: 40px;
+    content: "";
+    height: 125%;
+    left: -20px;
+    position: absolute;
+    top: -100px;
+    width: 100%;
+    z-index: -1;
+}
+.input1{
+    padding: 10px;
+    width: 360px;
+    height: 45px;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-size: 15px;
+    border-color: rgba(0, 0, 0, 0.24);
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.booking-small{
+color: red;
+text-align: center;
+font-size: 15px;
+}
+.input2{
+    padding: 10px;
+    width: 360px;
+    height: 45px;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.603);
+    border-color: rgba(0, 0, 0, 0.24);
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.submit-btn{
+    width: 200px;
+    margin-top: 30px;
+    height: 40px;
+    margin-left: 200px;
+}
+.booking-right{
+    display: flex;
+}
+.mobile{
+    height: 600px;
+    margin-top: 60px;
+    margin-left: 30px;
+    position: relative;
+}
+.women{
+    position: absolute;
+   left: 950px;
+   top: 2437px;
+   height: 500px;
+   animation: ease-in shake 2s infinite;
+}
+@keyframes shake {
+    0%{
+        transform: translateX(0);
+    }
+    50%{
+        transform: translateX(-7px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+.location{
+    position: absolute;
+    left: 690px;
+    top: 2660px;
+    width: 80px;
+    animation: ease-in shake 2s infinite;
+}
+@keyframes shake{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-3px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+.heartmsg{
+    position: absolute;
+    left: 1100px;
+    top: 2367px;
+    width: 80px;
+    animation: ease-in shake 2s infinite;
+}
+@keyframes shake{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-5px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+.setting{
+    position: absolute;
+    left: 960px;
+    top: 2737px;
+    width: 70px;
+    animation: ease-in shake 2s infinite;
+}
+@keyframes shake{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-7px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+.tick{
+    position: absolute;
+    left: 630px;
+    top: 2437px;
+    width: 50px;
+    animation: ease-in shake 2s infinite;
+}
+@keyframes shake{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-3px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}

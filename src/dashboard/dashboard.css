@@ -1,0 +1,46 @@
+.dashboard-nav{
+display: flex;
+}
+.dashboard-content{
+   display: grid;
+}
+.dashboard-btn{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+   
+}
+.report1{
+    padding: 10px;
+    position: relative;
+}
+.report1::after{
+    content: '';
+    background-color: black;
+    position: absolute;
+    width: 150px;
+    height: 2px;
+    top: 65px;
+    left: 5px;
+}
+.report1::before{
+    content: '';
+    background-color: black;
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    top: 73px;
+    left: 30px;
+}
+.p-column-title{
+    color: rgb(46, 46, 173) !important;
+   
+}
+.p-column-header-content{
+justify-content: center !important;
+}
+
+[data-pc-section="row"] td
+{
+    text-align: center !important;
+}

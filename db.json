@@ -1,0 +1,113 @@
+{
+  "booking": [
+    {
+      "patient": {
+        "patientID": "3001",
+        "name": "surya",
+        "number": "8690567945",
+        "age": "25",
+        "address": "chennai",
+        "visit": "FEVER",
+        "date": "2023-10-02"
+      },
+      "id": 1
+    },
+    {
+      "patient": {
+        "patientID": "3003",
+        "name": "prakash",
+        "number": "8690567967",
+        "age": "22",
+        "address": "chennai",
+        "visit": "HEADACHE",
+        "date": "2023-10-01"
+      },
+      "id": 2
+    },
+    {
+      "patient": {
+        "patientID": "3004",
+        "name": "yogesh",
+        "number": "8690556782",
+        "age": "26",
+        "address": "chennai",
+        "visit": "BODY PAIN",
+        "date": "2023-9-30"
+      },
+      "id": 3
+    },
+    {
+      "patient": {
+        "patientID": "2001",
+        "name": "aswin",
+        "number": "5474787678",
+        "age": "20",
+        "visit": "cold",
+        "date": "2023-9-30"
+      },
+      "id": 4
+    },
+    {
+      "patient": {
+        "patientID": "2003",
+        "name": "mani",
+        "number": "5474756729",
+        "age": "21",
+        "visit": "high fever",
+        "date": "2023-10-2"
+      },
+      "id": 5
+    }
+  ],
+  "employeeDetails": [
+    {
+      "employeeID": "1001",
+      "name": "vishva",
+      "Number": "9080070275",
+      "DOB": "2001-07-16",
+      "Gender": "male",
+      "Address": "chennai",
+      "Experience": "fresher",
+      "Role": "Hr",
+      "Blood": "o+",
+      "Shift": "Moring",
+      "Password": "12345",
+      "id": 1,
+      "loginTime": "22:45",
+      "logoutTime": "22:45"
+    },
+    {
+      "employeeID": "1002",
+      "name": "jagan",
+      "Number": "9080565928",
+      "DOB": "1999-07-28",
+      "Gender": "male",
+      "Address": "chennai",
+      "Experience": "1 year ",
+      "Role": "Front Officer",
+      "Blood": "o+",
+      "Shift": "Moring",
+      "Password": "Jagan9080@",
+      "id": 2,
+      "loginTime": "",
+      "logoutTime": "23:5"
+    },
+    {
+      "employeeID": "1003",
+      "name": "kannan",
+      "Number": "9884898813",
+      "DOB": "2001-09-18",
+      "Gender": "male",
+      "Address": "chennai",
+      "Experience": "2 year",
+      "Role": "Doctor",
+      "Blood": "o-",
+      "Shift": "Moring",
+      "Password": "Kannan988@",
+      "id": 3,
+      "loginTime": "",
+      "logoutTime": "22:9"
+    }
+  ],
+  "applyleave": []
+}

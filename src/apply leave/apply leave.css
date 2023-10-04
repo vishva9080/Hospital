@@ -1,0 +1,69 @@
+.apply-leave{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* height: 100vh; */
+    padding-top: 20px;
+}
+.apply-leave-main{
+border: 3px solid rgba(0, 0, 0, 0);
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 25px;
+width: 400px;
+/* height: 300px; */
+padding-top: 60px;
+}
+.AP-TOP{
+display: flex;
+justify-content: center;
+margin-left: 12px;
+}
+.AP-TOP p{
+color: blue;
+font-size: 20px;
+margin-top: 5px;
+}
+.AP-DOWN{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.AP-DOWN p{
+    color: blue;
+font-size: 20px;
+margin-top: 20px;
+
+}
+.ap-btn{
+display: grid;
+place-items: end;
+margin: 5px;
+margin-right: 8px;
+}
+.input-ap-date{
+    width: 280px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.247);
+    margin-top: 5px;
+    margin-left: 7px;
+    padding: 5px;
+    color: rgba(0, 0, 0, 0.479);
+}
+.textarea-ap{
+    width: 280px;
+    height: 80px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.247);
+}
+.leavesmall{
+    color: red;
+text-align: center;
+    font-size: 15px;
+    }
+.leavesmall-div{
+    display: grid;
+    place-items: center;
+}

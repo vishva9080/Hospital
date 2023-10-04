@@ -1,0 +1,114 @@
+.contact-left-right-main{
+    display: flex;
+    width: 80%;
+    height: 500px;
+    background-color:white;
+    margin-left: 130px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.contact-main-div{
+    padding-bottom: 50px;
+}
+.contact-header{
+    color: #f17732;
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 530px;
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-input1{
+    padding: 20px;
+    width: 460px;
+    height: 55px;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-size: 15px;
+    border-color: rgba(0, 0, 0, 0.24);
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-left form{
+    display: grid;
+    margin-top: 50px;
+}
+.contact-submit-btn{
+    width: 200px;
+    margin-top: 30px;
+    height: 40px;
+    margin-left: 300px;
+}
+.contact-right{
+    background-image: url(./assets/pic-1.ad1ed7ee8284087fe9ee.jpg);
+    width: 450px;
+    height: 360px;
+    margin-left: 80px;
+    margin-top: 75px;
+    position: relative;
+    
+}
+.bg-blue-head{
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 30px;
+    position: relative;
+}
+.bg-blue-head1{
+    position: absolute;
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    margin-left: 30px;
+    top: 0px;
+}
+.bg-blue-head::after{
+    position: absolute;
+    background-color: rgba(0, 0, 255, 0.699);
+    content: '';
+    width: 450px;
+    height: 360px;
+    top: -40px;
+    left: -30px;
+}
+.location-contact{
+    color: white;
+    color:white;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30px;
+    position: relative;
+}
+.location-contact::after{
+content: '';
+background-color: white;
+width: 350px;
+height: 2px;
+top: 30px;
+position: absolute;
+}
+.email-contact{
+    color: white;
+    color:white;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 30px;
+    position: relative;
+}
+.email-contact::after{
+    content: '';
+    background-color: white;
+    width: 350px;
+    height: 2px;
+    top: 30px;
+    position: absolute;
+    }
+    

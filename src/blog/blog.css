@@ -1,0 +1,148 @@
+.blog-main-div{
+margin-top: 60px;
+}
+
+.blog-head{
+    color: #f17732;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 570px;
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+.blog-sub{
+    color: rgb(29, 29, 161);
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 350px;
+    margin-top: 10px;
+    width: 600px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.blog-banner{
+    display: flex;
+}
+.bg-1{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.blog-left{
+    position: relative;
+}
+.doc-1{
+    position: absolute;
+    border-radius: 50%;
+    left: 280px;
+    width: 80px;
+    height: 80px;
+    top: -20px;
+}
+.doc-2{
+    position: absolute;
+    border-radius: 50%;
+    left: 70px;
+    width: 80px;
+    height: 80px;
+    top: 100px;
+}
+.doc-3{
+    position: absolute;
+    border-radius: 50%;
+    left: 490px;
+    width: 80px;
+    height: 80px;
+    top: 100px;
+}
+.doc-4{
+    position: absolute;
+    border-radius: 50%;
+    left: 280px;
+    width: 80px;
+    height: 80px;
+    top: 460px;
+}
+.doc-5{
+    position: absolute;
+    border-radius: 50%;
+    left: 60px;
+    width: 80px;
+    height: 80px;
+    top: 320px;
+}
+.doc-6{
+    position: absolute;
+    border-radius: 50%;
+    left: 495px;
+    width: 80px;
+    height: 80px;
+    top: 320px;
+}
+.review{
+    width: 500px;
+    height: 350px;
+    background-color: #f17732;
+    border-top-left-radius:40px ;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+.review1{
+    width: 500px;
+    height: 350px;
+    background-color: #f17732;
+    border-top-left-radius:40px ;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin-left: 200px;
+    margin-top: 90px;
+    display: none;
+}
+.quote-up i{
+ color: #f17732;
+    background-color: white;
+    padding: 10px;
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-left: 40px;
+   border-radius: 15px;  
+   margin-top: -60px;
+}
+.quote-down i{
+    color: rgba(255, 255, 255, 0.397);
+       padding: 10px;
+       font-size: 80px;
+       width: 80px;
+       height: 80px;
+       box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+       margin-left: 370px;
+      border-radius: 15px;  
+      margin-top: 180px;
+   }
+   .lorem1{
+    font-style: italic;
+    font-size: 20px;
+    margin-top: -240px;
+    width: 470px;
+    margin-left: 15px;
+    color: white;
+   }
+  .jhon{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .patient{
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    margin-left: 30px;
+   margin-top: -10px;
+    font-family: 'Montserrat', sans-serif;
+  }

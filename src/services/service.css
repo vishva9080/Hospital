@@ -1,0 +1,69 @@
+.service-top{
+    display: flex;
+    margin-left: 130px;
+}
+.service-main h1{
+    color: #f17732;
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 550px;
+    margin-top: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.service-top1{
+    background-image: url(./assets/download\ \(4\).png);
+    height: 350px;
+    width: 300px;
+    background-repeat: no-repeat;
+    border: 1px solid rgba(0, 0, 0, 0.308);
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.service-icon i{
+    font-size: 80px;
+    padding: 20px;
+    background-color: white;
+margin-top: 50px;
+margin-left: 30px;
+color: rgb(75, 75, 182);
+border: 1px solid rgba(0, 0, 0, 0.068);
+border-radius: 10px;
+}
+.service-top1:hover i{
+    animation: shake 0.5s ease ;
+}
+
+@keyframes shake {
+    0%, 100% {
+        transform: translateX(0);
+    }
+    25%, 75% {
+        transform: translateX(-3px); 
+    }
+    50% {
+        transform: translateX(3px); 
+    }
+}
+    
+.headtag{
+    color: #f17732;
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.details{
+  color: rgba(0, 0, 0, 0.555);
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.service-bottom{
+    display: flex;
+    margin-left: 130px;
+    margin-top: -20px;
+}
